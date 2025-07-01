@@ -1,0 +1,29 @@
+.btnConatiner{
+  text-align: center;
+  justify-content: space-evenly;
+}
+
+.btnCls{
+  color: whitesmoke;
+  background-color: black;
+  padding:10px 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+#prime{
+  cursor: pointer;
+  border-color: whitesmoke;
+  border-radius: 4px;
+}
+#sencondary{
+  background-color: yellowgreen;
+  cursor: pointer;
+  border-radius: 8px;
+
+}
+#ternary{
+  background-color: burlywood;
+  cursor: pointer;
+  border-radius: 12px;
+}
+
+
